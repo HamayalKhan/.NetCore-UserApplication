@@ -1,6 +1,7 @@
 using CRUD.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Microsoft.Extensions.Configuration;
 
 namespace CRUD.Controllers
 {
